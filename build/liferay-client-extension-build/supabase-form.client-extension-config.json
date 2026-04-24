@@ -1,0 +1,17 @@
+{
+  "com.liferay.client.extension.type.configuration.CETConfiguration~supabase-form" : {
+    ":configurator:policy" : "force",
+    "baseURL" : "${portalURL}/o/supabase-form",
+    "buildTimestamp" : 1777026155830,
+    "description" : "",
+    "dxp.lxc.liferay.com.virtualInstanceId" : "default",
+    "name" : "Formulario Solicitudes",
+    "projectId" : "supabaseform",
+    "projectName" : "supabase-form",
+    "properties" : [ ],
+    "sourceCodeURL" : "",
+    "type" : "customElement",
+    "typeSettings" : [ "instanceable=false", "urls=supabase-form.js", "useESM=false", "portletCategoryName=category.client", "htmlElementName=supabase-form" ],
+    "webContextPath" : "/supabase-form"
+  }
+}

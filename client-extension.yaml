@@ -1,0 +1,12 @@
+assemble:
+  - from: build
+    into: static
+supabase-form:
+  htmlElementName: supabase-form
+  instanceable: false
+  name: Formulario Solicitudes
+  portletCategoryName: category.client
+  type: customElement
+  urls:
+    - supabase-form.js
+  useESM: false
